@@ -1,3 +1,4 @@
+/.idea/
 /client/server.key
 /client/server.pem
 /server/server.key
@@ -8,4 +9,3 @@
 /server.pem
 /ss
 /cle.exe
-/.idea/
